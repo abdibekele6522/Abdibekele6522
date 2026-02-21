@@ -13,7 +13,8 @@
 - 🤖 Currently focused on **Artificial Intelligence & Machine Learning**
 - 💡 Strong foundation in frontend, backend & problem solving
 - 🎯 Career Goal: **AI Engineer**
-- 📫 Contact: **sinewabdi@gmail.com**
+- 📫 Email: **sinewabdi@gmail.com**
+- 📫 LinkedIn: **www.linkedin.com/in/abdi-bekele1996**
 
 ---
 
